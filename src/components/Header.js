@@ -1,12 +1,12 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-//import Icon from "../src/assets/svg/nsat_icon.svg
+import pic01 from '../images/nsat_icon.svg'
 
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <span className="icon fa-diamond"></span>
-      <img src=""></img>
+      <div className="icon fa-diamond"></div>
+      {/* <img src={pic01}></img> */}
       
     </div>
     <div className="content">
@@ -23,24 +23,6 @@ const Header = props => (
           <button
             onClick={() => {
               props.onOpenArticle('intro')
-            }}
-          >
-            About
-          </button>
-        </li>
-        <li>
-          <button
-            onClick={() => {
-              props.onOpenArticle('work')
-            }}
-          >
-            Work
-          </button>
-        </li>
-        <li>
-          <button
-            onClick={() => {
-              props.onOpenArticle('about')
             }}
           >
             About
