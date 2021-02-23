@@ -5,8 +5,7 @@ import pic01 from '../images/nsat_icon.svg'
 const Header = props => (
   <header id="header" style={props.timeout ? { display: 'none' } : {}}>
     <div className="logo">
-      <div className="icon fa-diamond"></div>
-      {/* <img src={pic01}></img> */}
+      <img src={pic01}></img>
       
     </div>
     <div className="content">
