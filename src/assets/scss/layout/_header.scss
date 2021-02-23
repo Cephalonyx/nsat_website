@@ -65,7 +65,7 @@
   .logo {
     width: 20rem;
     height: 10rem;
-    line-height: 5.5rem;
+    line-height: 1rem;
     border: none;
     border-radius: 100%;
     filter: invert(100%);
@@ -136,11 +136,12 @@
           padding: 0 1.25rem 0 (1.25rem + _font(letter-spacing));
           text-transform: uppercase;
           letter-spacing: _font(letter-spacing);
-          font-size: 1.5rem;
+          font-size: 1rem;
           font-family: _font(family);
           font-weight: bold;
           border: none;
           box-shadow: none;
+          background-color: black;
 
           &:hover,
           &:focus {
