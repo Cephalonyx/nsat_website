@@ -33,7 +33,7 @@ const Header = props => (
               props.onOpenArticle('contact')
             }}
           >
-            Contact
+            Request Quote
           </button>
         </li>
       </ul>
