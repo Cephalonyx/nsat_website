@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'North South Art Transfer Website',
+    title: 'North South Art Transfer',
     author: 'Jacob Ramsaywak',
-    description: 'Website for North South Art Transfer',
+    description: 'North South Art Transfer',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
