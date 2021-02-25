@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{w2l6:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),r=t("Bl7J");n.default=function(){return l.a.createElement(r.a,null,l.a.createElement("h1",null,"404 PAGE NOT FOUND"),l.a.createElement("p",null,"You took the wrong path, adventurer. Turn back now!"))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-e74f9be78c65df9aef6c.js.map

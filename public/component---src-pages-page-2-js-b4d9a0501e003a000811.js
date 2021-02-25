@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{p5nM:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),l=t.n(a),o=t("Wbzz"),c=t("Bl7J");n.default=function(){return l.a.createElement(c.a,null,l.a.createElement("h1",null,"What are you doing here?"),l.a.createElement("p",null,"Welcome to the hidden page!"),l.a.createElement(o.Link,{to:"/"},"Go back home"))}}}]);
+//# sourceMappingURL=component---src-pages-page-2-js-b4d9a0501e003a000811.js.map
