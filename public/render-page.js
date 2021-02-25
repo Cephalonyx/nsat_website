@@ -31828,9 +31828,9 @@ const Footer = props => /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.
     display: 'none'
   } : {}
 }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-  className: "copyright",
+  className: "email_footer",
   href: "mailto:Robert@NSATransfer.com"
-}, "Email: Robert@NSATransfer.com"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+}, "Robert@NSATransfer.com"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
   className: "copyright"
 }, "7227 Gateway Ct, Manassas, VA 20109"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
   className: "copyright",
@@ -31962,7 +31962,10 @@ class Main extends react__WEBPACK_IMPORTED_MODULE_1___default.a.Component {
       src: _images_pic03_jpg__WEBPACK_IMPORTED_MODULE_4___default.a,
       alt: ""
     })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("p", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
-      href: "mailto:Robert@NSATransfer.com?subject=Website Quote Request&body=1) Collection Address and contact information: %0d%0a\r\n2) Destination Address and contact information: %0d%0a\r\n3) Description of articles including dimensions and pictures is possible:"
+      href: "mailto:Robert@NSATransfer.com?subject=Website Quote Request&body=1) Collection Address and contact information: %0d%0a\r\n2) Destination Address and contact information: %0d%0a\r\n3) Description of articles including dimensions and pictures if possible:",
+      style: {
+        color: blue
+      }
     }, "To request a quote, please click this link "), "or send an email to Robert@NSATransfer.com with the following information,", /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", null, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", null, "Collection Address and contact information"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", null, "Destination Address and contact information"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", null, "Description of articles including dimensions and pictures if possible."))), close));
   }
 
