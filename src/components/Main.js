@@ -61,7 +61,7 @@ class Main extends React.Component {
           <p>
            <a href="mailto:Robert@NSATransfer.com?subject=Website Quote Request&body=1) Collection Address and contact information: %0d%0a
 2) Destination Address and contact information: %0d%0a
-3) Description of articles including dimensions and pictures is possible:">To request a quote, please click this link </a>  
+3) Description of articles including dimensions and pictures if possible:">To request a quote, please click this link </a>  
   or send an email to Robert@NSATransfer.com with the following information,
 <ul><li>Collection Address and contact information</li>
 <li>Destination Address and contact information</li>
