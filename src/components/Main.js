@@ -34,13 +34,11 @@ class Main extends React.Component {
           </span>
           <p>
           Specializing in the transport and storage of fine art and antiques for over 30 years.
-          </p>
-          <p>
-          Weekly Shuttle between Washington DC and New York City. Servicing all of the eastern seaboard.
-         </p>
-          <p>
+         
           Servicing art dealers, collectors, auction houses, museums, designers, and private clients with an experienced, professional, and polite crew.
+          Weekly Shuttle between Washington DC and New York City. Servicing all of the eastern seaboard.
           </p>
+
            
           {close}
         </article>
